@@ -20,7 +20,9 @@ Skills: Node / Typescript / AWS SAM / .NET / C#
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=prasanthlouis)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=prasanthlouis&show_icons=true&count_private=true)  
+<a href="https://github.com/prasanthlouis/prasanthlouis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prasanthlouis&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Prasanth's GitHub Stats" />
+</a>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=prasanthlouis)  
 
@@ -32,9 +34,7 @@ Skills: Node / Typescript / AWS SAM / .NET / C#
 
 ## &#x1f4c8; GitHub Stats 
 
-<a href="https://github.com/prasanthlouis/prasanthlouis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prasanthlouis&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Prasanth's GitHub Stats" />
-</a>
+
 <br><br>
 
 Stack Overflow Stats:
