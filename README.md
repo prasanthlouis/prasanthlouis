@@ -7,7 +7,7 @@ My name is Prasanth Louis and I'm an Assistant Director at Moody's Analytics. I'
 </a>
 <br><br>
 
-[![Prasanth Louis StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)](https://stackoverflow.com/users/3293761/prasanth-louis)
+[![Prasanth Louis StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/3293761)](https://stackoverflow.com/users/3293761/prasanth-louis)
 <!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
