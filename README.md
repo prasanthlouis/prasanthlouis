@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is Prasanth
 #### Assistant Director at Moody's Analytics
-![Assistant Director at Moody's Analytics](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Hey everyone! My name is Prasanth! I'm from Philadelphia and I'm currently working on Node/Typescript and AWS SAM. 
 
