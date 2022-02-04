@@ -23,6 +23,7 @@ Skills: Node / Typescript / AWS SAM / .NET / C#
 </a>
 
 Stack Overflow Stats:
+
 [![Prasanth Louis StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/3293761)](https://stackoverflow.com/users/3293761/prasanth-louis)
 <!-- icons with padding -->
 
@@ -32,12 +33,6 @@ Stack Overflow Stats:
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=prasanthlouis)  
 
-![Profile views](https://gpvc.arturio.dev/prasanthlouis)  
-
-## &#x1f4c8; GitHub Stats 
-
-
-<br><br>
 
 
 <h3>Meme of the day:</h3>
