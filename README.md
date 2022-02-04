@@ -1,4 +1,37 @@
-My name is Prasanth Louis and I'm an Assistant Director at Moody's Analytics. I'm from Philadelphia and currently working on Node/Typescript and AWS SAM. In my free time I love working with C#/.NET. You can find me on [![Twitter][1.2]][1] or&nbsp; [![LinkedIn][3.2]][3]
+### Hi there 👋, My name is Prasanth
+#### Assistant Director at Moody's Analytics
+![Assistant Director at Moody's Analytics](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+Hey everyone! My name is Prasanth! I'm from Philadelphia and I'm currently working on Node/Typescript and AWS SAM. 
+
+In my free time, I love working on Microsoft stack so you'll see me dabble in .NET/C#.
+
+
+Skills: Node / Typescript / AWS SAM / .NET / C#
+
+- 🔭 I’m currently working on Node/ Typescript / AWS SAM 
+- 🌱 I’m currently learning Flutter and Dart 
+- 💬 Ask me about Software Development and Guitars 
+- 📫 How to reach me: Twitter 
+- 😄 Pronouns: he/him/his 
+- ⚡ Fun fact: My biggest date fail was taking someone to Build-A-Bear 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/prasanthlouis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/prasanthlouis/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/prasanthlouis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/3293761)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=prasanthlouis)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasanthlouis)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=prasanthlouis&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=prasanthlouis)  
+
+![GitHub metrics](https://metrics.lecoq.io/prasanthlouis)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=prasanthlouis)  
+
+![Profile views](https://gpvc.arturio.dev/prasanthlouis)  
 
 ## &#x1f4c8; GitHub Stats 
 
@@ -28,7 +61,4 @@ Stack Overflow Stats:
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (My LinkedIn)
 
 <!-- links to your social media accounts -->
-
-[1]: https://twitter.com/prasanthlouis
 [2]: https://github.com/prasanthlouis
-[3]: https://www.linkedin.com/in/prasanthlouis/
