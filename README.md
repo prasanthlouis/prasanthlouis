@@ -1,4 +1,4 @@
-My name is Prasanth Louis and I'm an assistant director at Moody's Analytics. I'm from Philadelphia and currently working on Node/Typescript and AWS SAM. In my free time I love working with C#/.NET. You can find me on [![Twitter][1.2]][1] or&nbsp; [![LinkedIn][3.2]][3]
+My name is Prasanth Louis and I'm an Assistant Director at Moody's Analytics. I'm from Philadelphia and currently working on Node/Typescript and AWS SAM. In my free time I love working with C#/.NET. You can find me on [![Twitter][1.2]][1] or&nbsp; [![LinkedIn][3.2]][3]
 
 ## &#x1f4c8; GitHub Stats 
 
