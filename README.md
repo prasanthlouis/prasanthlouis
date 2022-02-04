@@ -18,18 +18,16 @@ Skills: Node / Typescript / AWS SAM / .NET / C#
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/prasanthlouis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/prasanthlouis/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/prasanthlouis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/3293761)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=prasanthlouis)](https://github.com/ryo-ma/github-profile-trophy)
-
 <a href="https://github.com/prasanthlouis/prasanthlouis">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=prasanthlouis&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Prasanth's GitHub Stats" />
 </a>
-
+<br><br>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=prasanthlouis)  
-
+<br><br>
 ![GitHub metrics](https://metrics.lecoq.io/prasanthlouis)  
-
+<br><br>
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=prasanthlouis)  
-
+<br><br>
 ![Profile views](https://gpvc.arturio.dev/prasanthlouis)  
 
 ## &#x1f4c8; GitHub Stats 
