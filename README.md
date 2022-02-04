@@ -39,8 +39,6 @@ Stack Overflow Stats:
 [![Prasanth Louis StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/3293761)](https://stackoverflow.com/users/3293761/prasanth-louis)
 <!-- icons with padding -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=prasanthlouis&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <h3>Meme of the day:</h3>
 
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
