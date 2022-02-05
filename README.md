@@ -31,14 +31,6 @@ Stack Overflow Stats:
 
 ![GitHub metrics](https://metrics.lecoq.io/prasanthlouis)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=prasanthlouis)  
-
-
-
-<h3>Meme of the day:</h3>
-
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
