@@ -20,8 +20,6 @@ Skills: Node / Typescript / AWS SAM / .NET / C#
 
 [![Prasanth Louis StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=3293761)](https://stackoverflow.com/users/3293761/prasanth-louis)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=prasanthlouis)  
-
 ![GitHub metrics](https://metrics.lecoq.io/prasanthlouis)  
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=prasanthlouis&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Prasanth's GitHub Stats" />
