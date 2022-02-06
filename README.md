@@ -6,12 +6,12 @@ Hey everyone! My name is Prasanth! I'm from Philadelphia and I'm currently worki
 In my free time, I love working on Microsoft stack so you'll see me dabble in .NET/C#.
 
 
-Skills: Node / Typescript / AWS SAM / .NET / C#
+Skills: ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) / ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) / ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) SAM / ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) / ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-- 🔭 I’m currently working on Node/ Typescript / AWS SAM 
-- 🌱 I’m currently learning Flutter and Dart 
+- 🔭 I’m currently working on ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)/ ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) / AWS SAM 
+- 🌱 I’m currently learning ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) and ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
 - 💬 Ask me about Software Development and Guitars 
-- 📫 How to reach me: Twitter 
+- 📫 How to reach me: ![Twitter](https://img.shields.io/badge/prasanthlouis-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) 
 - 😄 Pronouns: he/him/his 
 - ⚡ Fun fact: My biggest date fail was taking someone to Build-A-Bear 
 
