@@ -1,9 +1,9 @@
 ### Hi there 👋, My name is Prasanth
 #### Assistant Director at Moody's Analytics
 
-Hey everyone! My name is Prasanth! I'm from Philadelphia and I'm currently working on Node/Typescript and AWS SAM. 
-
-In my free time, I love working on Microsoft stack so you'll see me dabble in .NET/C#.
+-Philadelphia
+-Whisky
+-Guitars
 
 Skills           |  About Me
 :-------------------------|:-------------------------
