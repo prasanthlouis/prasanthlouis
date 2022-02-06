@@ -18,12 +18,11 @@ Skills: Node / Typescript / AWS SAM / .NET / C#
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/prasanthlouis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/prasanthlouis/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/prasanthlouis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/3293761)  
 
-[![Prasanth Louis StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=3293761)](https://stackoverflow.com/users/3293761/prasanth-louis)
-
-![GitHub metrics](https://metrics.lecoq.io/prasanthlouis)  
-
 <img src="https://github-readme-stats.vercel.app/api?username=prasanthlouis&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Prasanth's GitHub Stats" />
 
+Stack Overflow            |  Github Metrics
+:-------------------------:|:-------------------------:
+![Prasanth Louis StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=3293761)](https://stackoverflow.com/users/3293761/prasanth-louis)  |  ![GitHub metrics (https://metrics.lecoq.io/prasanthlouis)  
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
