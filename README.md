@@ -5,7 +5,8 @@ Hey everyone! My name is Prasanth! I'm from Philadelphia and I'm currently worki
 
 In my free time, I love working on Microsoft stack so you'll see me dabble in .NET/C#.
 
-
+Skills           |  About Me
+:-------------------------:|:-------------------------:
 Skills: 
 <br>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -17,7 +18,8 @@ Skills:
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 <br>
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-<br>
+<br> 
+|
 
 - 🔭 I’m currently working on Node / Typescript / AWS SAM
 - 🌱 I’m currently learning Flutter and Dart
