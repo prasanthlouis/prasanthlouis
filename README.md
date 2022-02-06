@@ -7,11 +7,7 @@ In my free time, I love working on Microsoft stack so you'll see me dabble in .N
 
 Skills           |  About Me
 :-------------------------:|:-------------------------:
-Skills: <br>![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)<br>![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)<br>![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)<br>![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)<br>![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)<br> |- 🔭 I’m currently working on Node / Typescript / AWS SAM- 🌱 I’m currently learning Flutter and Dart
-- 💬 Ask me about Software Development and Guitars 
-- 📫 How to reach me: Twitter
-- 😄 Pronouns: he/him/his 
-- ⚡ Fun fact: My biggest date fail was taking someone to Build-A-Bear 
+Skills: <br>![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)<br>![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)<br>![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)<br>![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)<br>![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)<br> |- 🔭 I’m currently working on Node / Typescript / AWS SAM<br>- 🌱 I’m currently learning Flutter and Dart<br>- 💬 Ask me about Software Development and Guitars <br>- 📫 How to reach me: Twitter<br>- 😄 Pronouns: he/him/his <br>- ⚡ Fun fact: My biggest date fail was taking someone to Build-A-Bear 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/prasanthlouis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/prasanthlouis/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/prasanthlouis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/3293761)  
