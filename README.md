@@ -22,7 +22,7 @@ Skills: Node / Typescript / AWS SAM / .NET / C#
 
 Stack Overflow            |  Github Metrics
 :-------------------------:|:-------------------------:
-[![Prasanth Louis StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=3293761)](https://stackoverflow.com/users/3293761/prasanth-louis)  |  [![GitHub metrics] (https://metrics.lecoq.io/prasanthlouis)]  
+[![Prasanth Louis StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=3293761)](https://stackoverflow.com/users/3293761/prasanth-louis)  | ![GitHub metrics](https://metrics.lecoq.io/prasanthlouis)
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
