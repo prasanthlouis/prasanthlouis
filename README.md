@@ -3,6 +3,8 @@
 
 -Philadelphia
 <br>
+-Senior Engineer
+<br>
 -Whisky
 <br>
 -Guitars
