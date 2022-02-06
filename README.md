@@ -2,7 +2,9 @@
 #### Assistant Director at Moody's Analytics
 
 -Philadelphia
+<br>
 -Whisky
+<br>
 -Guitars
 
 Skills           |  About Me
