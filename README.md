@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Prasanth
-#### Assistant Director at Moody's Analytics
+#### Associate Director at Moody's Analytics
 
 [Buy me a coffee](https://buymeacoffee.com/prasanthlouis)
 
