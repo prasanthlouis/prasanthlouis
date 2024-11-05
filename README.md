@@ -23,7 +23,7 @@ Skills           |  About Me
 
 Stack Overflow            |  Github Metrics
 :-------------------------|:-------------------------
-[![Prasanth Louis StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=3293761)](https://stackoverflow.com/users/3293761/prasanth-louis)  | ![GitHub metrics](https://metrics.lecoq.io/prasanthlouis)
+[![Prasanth Louis StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=3293761)](https://stackoverflow.com/users/3293761/prasanth-louis)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/prasanthlouis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/prasanthlouis/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/prasanthlouis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/3293761)  
 
