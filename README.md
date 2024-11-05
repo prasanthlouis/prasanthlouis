@@ -21,8 +21,8 @@ Skills           |  About Me
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prasanthlouis/prasanthlouis/output/github-contribution-grid-snake.svg">
 </picture>
 
-Stack Overflow            |  Github Metrics
-:-------------------------|:-------------------------
+Stack Overflow            |  
+:-------------------------|
 [![Prasanth Louis StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=3293761)](https://stackoverflow.com/users/3293761/prasanth-louis)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/prasanthlouis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/prasanthlouis/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/prasanthlouis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/3293761)  
